@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ritik0835/Ritik0835/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+</p>
+
 <!--
 **Ritik0835/Ritik0835** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
