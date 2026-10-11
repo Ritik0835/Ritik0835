@@ -8,8 +8,8 @@ I build ML projects end to end: data validation, modeling, experiment tracking, 
 
 **[customer-churn-mlops](https://github.com/Ritik0835/customer-churn-mlops)**
 End-to-end churn prediction system with MLflow experiment tracking, a quality gate (min F1 and ROC-AUC), FastAPI service, Docker, GitHub Actions CI/CD, and deployment on Render with drift monitoring.
-- Result: ROC-AUC [X], F1 [Y]
-- Live API: [Render URL]
+- Result: ROC-AUC 0.85, F1 0.63 (Gradient Boosting, evaluated on a held-out test set)
+- Live API: [https://customer-churn-api-latest.onrender.com/]
 
 ## 🛠 Tech I Use
 
