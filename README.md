@@ -24,6 +24,23 @@ End-to-end churn prediction system with MLflow experiment tracking, a quality ga
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ritik0835&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" />
+
+<img src="https://streak-stats.demolab.com/?user=Ritik0835&theme=radical&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik0835&layout=compact&theme=radical&hide_border=true" height="165" />
+
+</div>
+
+
 ## 📚 Currently Learning
 Deep Learning (Neural Networks, CNNs, Transformers) · LLMs (Hugging Face, RAG) · Cloud (AWS) · Kubernetes
 
