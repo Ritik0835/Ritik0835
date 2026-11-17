@@ -1,51 +1,64 @@
-# Hi, I'm Ritik 👋
+<div align="center">
 
-Final-year BTech CSE student | Aspiring ML Engineer
+# Ritik Sharma
 
-I build ML projects end to end: data validation, modeling, experiment tracking, API serving, and deployment.
+### AI/ML Engineer
+
+Final-year BTech CSE student. I build ML systems from data to deployed API: validated pipelines, tracked experiments, quality-gated models, and live endpoints.
+
+📍 India · 📧 ritiksharma0835@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/ritiksharma-zzz0835) · 🐙 [GitHub](https://github.com/Ritik0835)
+
+</div>
+
+---
 
 ## 🚀 Featured Project
 
 **[customer-churn-mlops](https://github.com/Ritik0835/customer-churn-mlops)**
-End-to-end churn prediction system with MLflow experiment tracking, a quality gate (min F1 and ROC-AUC), FastAPI service, Docker, GitHub Actions CI/CD, and deployment on Render with drift monitoring.
-- Result: ROC-AUC 0.85, F1 0.63 (Gradient Boosting, evaluated on a held-out test set)
-- Live API: [https://customer-churn-api-latest.onrender.com/]
+End-to-end churn prediction system with a sklearn preprocessing pipeline, GridSearchCV tuning, MLflow experiment tracking, a quality gate (minimum F1 and ROC-AUC), a FastAPI service, Docker, GitHub Actions CI/CD, deployment on Render, and drift monitoring.
 
-## 🛠 Tech I Use
+| Metric (held-out test set) | Value |
+|---|---|
+| ROC-AUC | 0.8457 |
+| F1 | 0.6275 |
+| Precision | 0.5360 |
+| Recall | 0.7567 |
+| Accuracy | 0.7615 |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Model:** Gradient Boosting
 
-
+🔗 **Live API:** https://customer-churn-api-latest.onrender.com/
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠 Skills
+
+**Languages and Data:** Python · SQL · NumPy · Pandas · Matplotlib · Seaborn
+
+**Machine Learning:** scikit-learn · Gradient Boosting · XGBoost · LightGBM · GridSearchCV · Feature Engineering · Model Evaluation
+
+**Deep Learning and LLMs:** PyTorch · ANN · CNN · RNN/LSTM · Transformers · Hugging Face · RAG · LLMs
+
+**MLOps and Deployment:** MLflow · FastAPI · Docker · GitHub Actions · Render · AWS · Kubernetes · Drift Monitoring
+
+**Tools:** Git · GitHub · Linux · Power BI
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ritik0835&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" />
-
-<img src="https://streak-stats.demolab.com/?user=Ritik0835&theme=radical&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik0835&layout=compact&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ritik0835&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
+<img src="https://streak-stats.demolab.com/?user=Ritik0835&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik0835&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
+---
 
-## 📚 Currently Learning
-Deep Learning (Neural Networks, CNNs, Transformers) · LLMs (Hugging Face, RAG) · Cloud (AWS) · Kubernetes
+<div align="center">
 
-## 📂 Other Projects
-- **titanic-survival-prediction**: classification with scikit-learn
+📫 Open to AI/ML Engineer and Data Analyst internships and roles.
 
-## 📫 Reach Me
-[Ritik Sharma]([www.linkedin.com/in/ritik-sharma-zzz0835]) · ritiksharma0835@gmail.com
+</div>
