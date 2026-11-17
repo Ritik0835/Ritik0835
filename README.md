@@ -33,15 +33,52 @@ End-to-end churn prediction system with a sklearn preprocessing pipeline, GridSe
 
 ## 🛠 Skills
 
-**Languages and Data:** Python · SQL · NumPy · Pandas · Matplotlib · Seaborn
+**Languages and Data**
 
-**Machine Learning:** scikit-learn · Gradient Boosting · XGBoost · LightGBM · GridSearchCV · Feature Engineering · Model Evaluation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-**Deep Learning and LLMs:** PyTorch · ANN · CNN · RNN/LSTM · Transformers · Hugging Face · RAG · LLMs
+**Machine Learning**
 
-**MLOps and Deployment:** MLflow · FastAPI · Docker · GitHub Actions · Render · AWS · Kubernetes · Drift Monitoring
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6D2C?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge)
+![GridSearchCV](https://img.shields.io/badge/GridSearchCV-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-555555?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-555555?style=for-the-badge)
 
-**Tools:** Git · GitHub · Linux · Power BI
+**Deep Learning and LLMs**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ANN](https://img.shields.io/badge/ANN-555555?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-555555?style=for-the-badge)
+![RNN/LSTM](https://img.shields.io/badge/RNN%2FLSTM-555555?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-555555?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-555555?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-555555?style=for-the-badge)
+
+**MLOps and Deployment**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Drift Monitoring](https://img.shields.io/badge/Drift_Monitoring-555555?style=for-the-badge)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
